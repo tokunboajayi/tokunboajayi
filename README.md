@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tokunbo%20Ajayi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olatokunbo%20Ajayi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer+%7C+Creative+Technologist;Building+Gesture-Controlled+Interfaces;TypeScript+%E2%80%A2+Python+%E2%80%A2+WebGL+%E2%80%A2+WebGPU;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" /></a>
@@ -29,7 +29,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I'm a passionate developer building at the intersection of **AI/ML** and **interactive experiences**. I love creating systems that feel like magic! ✨
+Hey, I'm **Olatokunbo**! I'm a passionate developer building at the intersection of **AI/ML** and **interactive experiences**. I love creating systems that feel like magic! ✨
 
 - 🔭 Currently building: **Hand tracking & gesture control systems**
 - 🌱 Learning: **WebGPU, Computer Vision, Neural Networks**
