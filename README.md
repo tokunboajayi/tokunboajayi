@@ -15,9 +15,8 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olatokunboajayi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokunboajayi53@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tokunboajayi&color=blueviolet&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/tokunboajayi?style=for-the-badge&color=blueviolet)
@@ -102,7 +101,7 @@ I'm a passionate developer building at the intersection of **AI/ML** and **inter
 
 <br/>
 
-[![Reach Out](https://img.shields.io/badge/📧_Reach_Out-00C853?style=for-the-badge)](mailto:YOUR-EMAIL@gmail.com)
+[![Reach Out](https://img.shields.io/badge/📧_Reach_Out-00C853?style=for-the-badge)](mailto:tokunboajayi53@gmail.com)
 
 </div>
 
