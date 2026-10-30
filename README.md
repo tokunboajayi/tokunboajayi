@@ -10,7 +10,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olatokunbo%20Ajayi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer+%7C+Creative+Technologist;Building+Gesture-Controlled+Interfaces;TypeScript+%E2%80%A2+Python+%E2%80%A2+WebGL+%E2%80%A2+WebGPU;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A960FF&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Systems+Engineer+%7C+Creative+Technologist;Building+Autonomous+Agents+%26+Real-Time+Systems;Python+%E2%80%A2+Rust+%E2%80%A2+TypeScript+%E2%80%A2+PyTorch;Orbital+Physics+%E2%80%A2+Multi-Agent+AI+%E2%80%A2+HCI;Open+to+High-Impact+Opportunities+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -29,13 +29,14 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-Hey, I'm **Olatokunbo**! I'm a passionate developer building at the intersection of **AI/ML** and **interactive experiences**. I love creating systems that feel like magic! ✨
+Hey, I'm **Olatokunbo**! I'm an engineer and creative technologist building autonomous AI agents, physics-grounded telemetry engines, and intuitive human-computer interfaces. I love taking complex systems—from orbital mechanics to multi-agent automation—and crafting software that feels fast, reliable, and magical ✨
 
-- 🔭 Currently building: **Hand tracking & gesture control systems**
-- 🌱 Learning: **WebGPU, Computer Vision, Neural Networks**
-- 💡 Interested in: **AI solutions, 3D visualization, HCI**
-- 📍 Based in: **Atlanta, GA**
-- 💼 Open to: **Full-time roles & collaborations**
+- 🔭 **Currently building**: **[Asteria](https://github.com/tokunboajayi/asteria)** (mission control for RocketPy physics vs. flight logs & orbital propagation) & **[Jobdec](https://github.com/tokunboajayi/jobdec)** (autonomous multi-agent application engine).
+- ⚡ **Recently shipped**: **[Glass Prompter](https://github.com/tokunboajayi/glass-prompter)** (voice-following see-through teleprompter + AI assistant) & **[Tripwire](https://github.com/tokunboajayi/tripwire)** (multi-regime AI investor with Rust risk guardrails for Hacklanta '26).
+- 🌱 **Diving into**: Low-latency systems (Rust), physics simulation (RocketPy/SGP4), and agentic coordination.
+- 💡 **Core Interests**: Autonomous Agents, Applied AI/ML, Aerospace Simulation & Telemetry, HCI, High-Performance Systems.
+- 📍 **Based in**: Atlanta, GA.
+- 💼 **Open to**: Full-time AI/Software Engineering roles, venture builds, and high-impact collaborations.
 
 <br clear="right"/>
 
@@ -45,15 +46,16 @@ Hey, I'm **Olatokunbo**! I'm a passionate developer building at the intersection
 
 <div align="center">
 
-<!-- Animated Skill Icons -->
+<!-- Languages & Frameworks -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,tensorflow,opencv&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,rust,typescript,javascript,react,nodejs,pytorch,tensorflow&theme=dark&perline=8" />
 </a>
 
 <br/><br/>
 
+<!-- Systems & Tools -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=threejs,webgl,vscode,git,github,docker,linux&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=threejs,webgl,electron,docker,linux,git,github,vscode&theme=dark&perline=8" />
 </a>
 
 </div>
@@ -64,12 +66,14 @@ Hey, I'm **Olatokunbo**! I'm a passionate developer building at the intersection
 
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🖐️ **[Hand-track-control](https://github.com/tokunboajayi/Hand-track-control)** | Real-time hand tracking with WebGPU particles & 4D tesseract | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![WebGPU](https://img.shields.io/badge/-WebGPU-990000?style=flat) |
-| 🎨 **[GestureForge](https://github.com/tokunboajayi/GestureForge)** | AI gesture recognition & voxel sculpting platform | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat) |
-| 🧠 **[CORTEX-ZERO](https://github.com/tokunboajayi/CORTEX-ZERO-COMPRESSION-AND-VERIFICATION)** | Advanced compression & verification system | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 📊 **[Algo-flow](https://github.com/tokunboajayi/Algo-flow)** | Algorithm visualization toolkit | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 🚀 **[Asteria](https://github.com/tokunboajayi/asteria)** | Mission control analyzing the gap between RocketPy physics simulations vs. real rocket flight telemetry & SGP4 orbit ghosts through geomagnetic storms. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Physics](https://img.shields.io/badge/-Physics_Sim-00599C?style=flat) ![Aerospace](https://img.shields.io/badge/-Aerospace-4B0082?style=flat) |
+| 🤖 **[Jobdec](https://github.com/tokunboajayi/jobdec)** | Autonomous multi-agent application engine powered by local neural embeddings, Playwright automation, self-healing rules, and a Cyberdeck TUI. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![Multi--Agent](https://img.shields.io/badge/-Multi--Agent-FF6F00?style=flat) |
+| 🪟 **[Glass Prompter](https://github.com/tokunboajayi/glass-prompter)** | See-through voice-following teleprompter for Windows & macOS. Stays invisible on screen share with live voice tracking & AI screen assistant. | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white) ![AI Vision](https://img.shields.io/badge/-AI_Vision-8A2BE2?style=flat) |
+| ⚡ **[Tripwire](https://github.com/tokunboajayi/tripwire)** | Autonomous AI investor that switches trading brains by market regime, anchored by an immutable Rust risk layer it cannot override (*Hacklanta '26*). | ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat&logo=rust&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Quant](https://img.shields.io/badge/-Quant_AI-00C853?style=flat) |
+| 🖐️ **[Hand-track-control](https://github.com/tokunboajayi/Hand-track-control)** | Real-time gesture recognition interface featuring WebGPU particle systems and 4D tesseract manipulation. | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![WebGPU](https://img.shields.io/badge/-WebGPU-990000?style=flat) ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat&logo=webgl&logoColor=white) |
+| 🛠️ **[OS-GameBooster](https://github.com/tokunboajayi/OS-GameBooster)** | Terminal-based hardware-agnostic latency and system tuning engine optimized for competitive gaming performance. | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![CLI](https://img.shields.io/badge/-Systems_Tuning-333333?style=flat) |
 
 </div>
 
@@ -97,11 +101,12 @@ Hey, I'm **Olatokunbo**! I'm a passionate developer building at the intersection
 
 <div align="center">
 
-*Looking for someone who can bridge AI research and delightful user experiences? Let's chat!*
+*Looking for an engineer who builds robust, intelligent systems with delightful user experiences? Let's connect!*
 
 <br/>
 
 [![Reach Out](https://img.shields.io/badge/📧_Reach_Out-00C853?style=for-the-badge)](mailto:tokunboajayi53@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olatokunboajayi)
 
 </div>
 
